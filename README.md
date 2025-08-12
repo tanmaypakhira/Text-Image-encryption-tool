@@ -31,7 +31,7 @@ random library – For pixel shuffling in image encryption
 Clone the repository:
 
 bash
-git clone https://github.com/yourusername/cybersecurity-encryption-toolkit.git
+git clone https://github.com/tanmaypakhira/cybersecurity-encryption-toolkit.git
 cd cybersecurity-encryption-toolkit
 Install required dependencies:
 
